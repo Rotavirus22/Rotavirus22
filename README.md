@@ -20,18 +20,6 @@ Full-stack software engineer in Kathmandu. I build production web and mobile pro
 
 ---
 
-#### 📌 Selected work
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**experts-plus_frontend**](https://github.com/Rotavirus22/experts-plus_frontend) | Internal operations app for managing camps, rooms and bed allocation, with typed forms and data tables | Next.js 16, TypeScript, Tailwind v4, shadcn/ui, TanStack Table, Zod |
-| [**RAG-implementation**](https://github.com/Rotavirus22/RAG-implementation) | Private, fully local PDF question-answering with retrieval evaluation | LangChain, ChromaDB, MiniLM embeddings, Mistral via Ollama |
-| [**Mental-Health-Assistant-Backend**](https://github.com/Rotavirus22/Mental-Health-Assistant-Backend) | Backend for a mental-health app: real-time chat, journaling, doctor booking, subscriptions and ML predictions | Node.js, Express, Socket.IO, Firebase, JWT |
-| [**Courier_app**](https://github.com/Rotavirus22/Courier_app) | Courier and delivery management web app with a feature-based architecture | Next.js, TypeScript, Zustand, React Hook Form, Zod |
-| [**JobApp**](https://github.com/Rotavirus22/JobApp-Backend) | Job marketplace: REST API, Flutter client and admin panel, with OpenAI and PDF parsing, email and scheduled jobs | Node.js, Express, MongoDB, OpenAI, Flutter |
-
----
-
 #### 🧭 How I work
 
 - Type-safe from database to form: schemas validated once and shared across client and server
